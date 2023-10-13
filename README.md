@@ -7,11 +7,11 @@ O projeto consiste em analisar dados sobre a locação de imóveis na cidade de 
 
 Os dados foram agrupados em um arquivo csv denominado 'RentSaoPaulo'. Nele temos as seguintes informações disponíveis:
 
-a) address - Endereço da propriedade
-b) district - Bairro da cidade
-c) area - Área da propriedade em metros quadrados
-d) bedrooms - Número de quartos
-e) garage - Possui garagem ou não (1 - Sim/0 - Não)
-f) type - Tipo de imóvel
-g) rent - Oferta de aluguel no site
+a) address - Endereço da propriedade <br>
+b) district - Bairro da cidade <br>
+c) area - Área da propriedade em metros quadrados <br>
+d) bedrooms - Número de quartos <br>
+e) garage - Possui garagem ou não (1 - Sim/0 - Não) <br>
+f) type - Tipo de imóvel <br>
+g) rent - Oferta de aluguel no site <br>
 h) total - Preço total, incluindo aluguel, taxas e outros impostos
